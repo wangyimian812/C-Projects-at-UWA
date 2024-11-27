@@ -4,6 +4,8 @@ There are 4 sample inputs available for testing. To test the first sample, run: 
 
 runml.c is a C mini compiler that removes comments, validates identifiers, converts assignment symbols, and adds semicolons. It demonstrates my ability to create efficient solutions with strong error handling. 
 
+
+
 To test simulation.c, first compile the code by running: gcc -std=c11 -Wall -Werror -o simulation simulation.c
 
 Create in.txt by: vim in.txt
