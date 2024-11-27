@@ -1,3 +1,3 @@
-Mini Compiler: Breathing Life into Code
-Built an exciting mini compiler in C that transforms raw code into structured brilliance! Key features include smart comment removal, identifier validation, assignment symbol conversion, and automatic semicolon addition. With powerful error handling, this project showcases my passion for solving tough challenges and delivering elegant solutions
+runml.c is an exciting mini compiler in C that transforms raw code into structured brilliance! Key features include smart comment removal, identifier validation, assignment symbol conversion, and automatic semicolon addition. With powerful error handling, this project showcases my passion for solving tough challenges and delivering elegant solutions.
 
+simulation.c is a dynamic virtual memory simulation in C, bringing memory management to life. I implemented advanced Local and Global LRU page replacement policies, handled multiple processes, and generated detailed, easy-to-read output files. This project demonstrates my love for systems programming and ability to handle complex processes with precision.
